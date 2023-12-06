@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ADD8E6; /* Light Blue background */
+    color: #008000; /* Green text color */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #000080; /* Navy Blue header background */
+    color: #FFFFFF; /* White text color */
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+section {
+    margin: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #000080;
+    color: #FFFFFF;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
