@@ -22,6 +22,6 @@ Beyond tech, I'm aiming to be a pro runner. Tech and an active lifestyle – tha
 
 Check out my [GitHub](https://github.com/SilasPuma) for cool projects and more!
 
-**Remember: Your time is limited, don't waste it living someone else's life.**
+**Remember: Your time is limited, don't waste it living someone else's life. - Steve Jobs**
 
 Created with 💙 and a dash of tech magic by Silas.
