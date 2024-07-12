@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Hey, I'm Silas, a tech-loving 13-year-old from Dallas, Texas!
+Hey, I'm Silas, a tech-lover currently residing in Dallas, Texas!
 
 ## 🚀 About Me
 
