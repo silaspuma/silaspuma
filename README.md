@@ -19,7 +19,9 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="Python" width="36" height="36" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flutter.svg" alt="Flutter" width="36" height="36" />
 </p>
+
 ---
+
 *"But when can I hear the next one?"*
   </a>
 </p>
