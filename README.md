@@ -7,7 +7,7 @@
 ## ​​​ About Me  
 - Frontend Web Developer from **Dallas, TX**  
 - Interested in **AI + Machine Learning** and **UI/UX**
-- *“i used to think i could fly”* - Tate McRae
+- *“live now think later”* - Tate McRae
 - I ❤️ boba and labubus
 - I'm a CERTIFIED Tater tot (ily tate) [**T8**]
 
