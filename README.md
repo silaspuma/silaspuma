@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SilasPuma/silaspuma/main/banner.gif" alt="really cool banner i made myself :D" width="600" />
+  <img src="https://raw.githubusercontent.com/SilasPuma/desgames/main/banner.gif" alt="really cool banner i made myself :D" width="600" />
 </p>
 
 ---
