@@ -1,6 +1,5 @@
 <p align="center">
-  <!-- Minimal Banner using GitHub raw content (upload to your repo) -->
-  <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURREPO/main/banner.svg" alt="banner coming soon i have to make it first" width="600" />
+  <img src="https://raw.githubusercontent.com/SilasPuma/silaspuma/main/banner.gif" alt="really cool banner i made myself :D" width="600" />
 </p>
 
 ---
