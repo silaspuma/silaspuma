@@ -19,17 +19,6 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="Python" width="36" height="36" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flutter.svg" alt="Flutter" width="36" height="36" />
 </p>
-
----
-
-##  Stats  
-<p align="center">
-  <!-- Static images from GitHub's own domains -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOURUSERNAME&theme=default&hide_border=true" alt="Streak Stats" width="45%" />
-</p>
-
-
-
 ---
 *"But when can I hear the next one?"*
   </a>
