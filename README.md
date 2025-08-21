@@ -1,1 +1,39 @@
-um... hi?
+<p align="center">
+  <!-- Minimal Banner using GitHub raw content (upload to your repo) -->
+  <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURREPO/main/banner.svg" alt="banner coming soon i have to make it first" width="600" />
+</p>
+
+---
+
+## ​​​ About Me  
+- Frontend Web Developer from **Dallas, TX**  
+- Interested in **AI + Machine Learning** and **UI/UX**
+- *“i used to think i could fly”* - Tate McRae
+- I ❤️ boba and labubus
+- I'm a CERTIFIED Tater tot (ily tate) [**T8**]
+
+---
+
+##  Languages  
+<p align="center">
+  <!-- Example: Using Simple Icons via GitHub raw URLs -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" alt="HTML5" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css.svg" alt="CSS3" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="Python" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flutter.svg" alt="Flutter" width="36" height="36" />
+</p>
+
+---
+
+##  Stats  
+<p align="center">
+  <!-- Static images from GitHub's own domains -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOURUSERNAME&theme=default&hide_border=true" alt="Streak Stats" width="45%" />
+</p>
+
+
+
+---
+*"But when can I hear the next one?"*
+  </a>
+</p>
