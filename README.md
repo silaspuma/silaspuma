@@ -2,7 +2,6 @@
   <img src="banner.gif" alt="really cool banner i made myself :D" width="600" />
 </p>
 
-
 ## ​​​ About Me  
 - Frontend Web Developer from **Dallas, TX**  
 - Interested in **AI + Machine Learning** and **UI/UX**
