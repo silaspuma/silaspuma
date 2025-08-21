@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.gif" alt="really cool banner i made myself :D" width="600" />
+  <img src="banner.GIF" alt="really cool banner i made myself :D" width="600" />
 </p>
 
 ## ​​​ About Me  
