@@ -14,28 +14,28 @@
 ##  Languages  
 <p align="center">
 
-  <!-- HTML -->
+  <!-- html -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="icons/html5.svg">
-    <img src="icons/html5-light.svg" alt="HTML5" width="36" height="36">
+    <source media="(prefers-color-scheme: dark)" srcset="icons/html5-light.svg">
+    <img src="icons/html5.svg" alt="HTML5" width="36" height="36">
   </picture>
 
-  <!-- CSS -->
+  <!-- css -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="icons/css.svg">
-    <img src="icons/css-light.svg" alt="CSS3" width="36" height="36">
+    <source media="(prefers-color-scheme: dark)" srcset="icons/css-light.svg">
+    <img src="icons/css.svg" alt="CSS3" width="36" height="36">
   </picture>
 
-  <!-- Python -->
+  <!-- py -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="icons/python.svg">
-    <img src="icons/python-light.svg" alt="Python" width="36" height="36">
+    <source media="(prefers-color-scheme: dark)" srcset="icons/python-light.svg">
+    <img src="icons/python.svg" alt="Python" width="36" height="36">
   </picture>
 
-  <!-- Flutter -->
+  <!-- flutter -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="icons/flutter.svg">
-    <img src="icons/flutter-light.svg" alt="Flutter" width="36" height="36">
+    <source media="(prefers-color-scheme: dark)" srcset="icons/flutter-light.svg">
+    <img src="icons/flutter.svg" alt="Flutter" width="36" height="36">
   </picture>
 
 </p>
