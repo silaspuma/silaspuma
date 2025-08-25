@@ -13,11 +13,10 @@
 
 ##  Languages  
 <p align="center">
-  <!-- Example: Using Simple Icons via GitHub raw URLs -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" alt="HTML5" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css.svg" alt="CSS3" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="Python" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flutter.svg" alt="Flutter" width="36" height="36" />
+  <img src="icons/html5.svg" alt="HTML5" width="36" height="36" />
+  <img src="icons/css.svg" alt="CSS3" width="36" height="36" />
+  <img src="icons/python.svg" alt="Python" width="36" height="36" />
+  <img src="icons/flutter.svg" alt="Flutter" width="36" height="36" />
 </p>
 
 ---
