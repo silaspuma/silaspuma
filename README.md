@@ -13,11 +13,33 @@
 
 ##  Languages  
 <p align="center">
-  <img src="icons/html5.svg" alt="HTML5" width="36" height="36" />
-  <img src="icons/css.svg" alt="CSS3" width="36" height="36" />
-  <img src="icons/python.svg" alt="Python" width="36" height="36" />
-  <img src="icons/flutter.svg" alt="Flutter" width="36" height="36" />
+
+  <!-- HTML -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="icons/html5.svg">
+    <img src="icons/html5-light.svg" alt="HTML5" width="36" height="36">
+  </picture>
+
+  <!-- CSS -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="icons/css.svg">
+    <img src="icons/css-light.svg" alt="CSS3" width="36" height="36">
+  </picture>
+
+  <!-- Python -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="icons/python.svg">
+    <img src="icons/python-light.svg" alt="Python" width="36" height="36">
+  </picture>
+
+  <!-- Flutter -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="icons/flutter.svg">
+    <img src="icons/flutter-light.svg" alt="Flutter" width="36" height="36">
+  </picture>
+
 </p>
+
 
 ---
 
