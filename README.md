@@ -7,7 +7,7 @@
 - Interested in **AI + Machine Learning** and **UI/UX**
 - *“live now think later”* - Tate McRae
 - I ❤️ boba and labubus
-- I'm a CERTIFIED tater tot - real ones know [**T8**]
+- I'm a CERTIFIED Tater Tot - real ones know [**T8**]
 
 ---
 
