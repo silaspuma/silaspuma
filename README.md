@@ -40,7 +40,8 @@
 
 </p>
 
-![Silas's GitHub stats](https://github-readme-stats.vercel.app/api?username=silaspuma\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+## Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=silaspuma\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 ---
 
 *"But when can I hear the next one?"*
