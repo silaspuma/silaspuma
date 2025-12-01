@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="silaspuma.png" alt="really cool banner i made myself :D" width="600" />
+  <img src="silaspuma2.png" alt="really cool banner i made myself :D" width="600" />
 </p>
 
 ## ​​​ about me  
