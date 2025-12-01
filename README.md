@@ -9,8 +9,6 @@
 - i love boba and labubus
 - im a CERTIFIED tater tot - real ones know (**T8**)
 
----
-
 ##  languages ik/am learning  
 <p align="center">
 
@@ -40,8 +38,6 @@
 
 </p>
 
-## stats
-![stats](https://github-readme-stats.vercel.app/api?username=silaspuma\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 ---
 
 *"but when can I hear the next one?"*
