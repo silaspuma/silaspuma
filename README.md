@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="banner.GIF" alt="really cool banner i made myself :D" width="600" />
+  <img src="banner.png" alt="really cool banner i made myself :D" width="600" />
 </p>
 
-## ​​​ About Me  
-- Frontend Web Developer from **Dallas, TX**  
-- Interested in **AI + Machine Learning** and **UI/UX**
-- *“live now think later”* - Tate McRae
-- I ❤️ boba and labubus
-- I'm a CERTIFIED Tater Tot - real ones know [**T8**]
+## ​​​ about me  
+- frontend web developer from **dallas, tx**  
+- interested in **AI + Machine Learning** and **ui/ux**
+- *“live now think later”* - tate mcrae
+- i love boba and labubus
+- im a CERTIFIED tater tot - real ones know (**T8**)
 
 ---
 
-##  Languages  
+##  languages ik/am learning  
 <p align="center">
 
   <!-- html -->
@@ -40,10 +40,10 @@
 
 </p>
 
-## Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=silaspuma\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+## stats
+![stats](https://github-readme-stats.vercel.app/api?username=silaspuma\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 ---
 
-*"But when can I hear the next one?"*
+*"but when can I hear the next one?"*
   </a>
 </p>
