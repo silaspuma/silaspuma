@@ -6,7 +6,7 @@
 ✪ 𝐟𝐨𝐮𝐧𝐝 𝐡𝐞𝐚𝐯𝐞𝐧 ✪
 
 ## ​​​ about me  
-- frontend web developer from **dallas, tx**  
+- *professional* vibe coder from **dallas, tx**  
 - interested in **AI + Machine Learning** and **ui/ux**
 - *“live now think later”* - tate mcrae
 - i love boba and labubus
