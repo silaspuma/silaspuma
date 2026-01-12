@@ -7,7 +7,7 @@
 - interested in **AI + Machine Learning** and **ui/ux**
 - *“live now think later”* - tate mcrae
 - i love boba and labubus
-- im a CERTIFIED tater tot - real ones know (**T8**)
+- im a tater tot and an EYEKON (**T8**) (**eat zucchini**)
 
 ##  languages ik/am learning  
 <p align="center">
