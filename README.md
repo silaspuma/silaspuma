@@ -33,7 +33,7 @@
   <!-- flutter -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="icons/typescript-light.svg">
-    <img src="icons/flutter.svg" alt="TypeScript" width="36" height="36">
+    <img src="icons/typescript.svg" alt="TypeScript" width="36" height="36">
   </picture>
 
 </p>
