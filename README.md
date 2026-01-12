@@ -2,12 +2,15 @@
   <img src="silaspuma2.png" alt="really cool banner i made myself :D" width="600" />
 </p>
 
+<p align="center">  
+✪ 𝐟𝐨𝐮𝐧𝐝 𝐡𝐞𝐚𝐯𝐞𝐧 ✪
+
 ## ​​​ about me  
 - frontend web developer from **dallas, tx**  
 - interested in **AI + Machine Learning** and **ui/ux**
 - *“live now think later”* - tate mcrae
 - i love boba and labubus
-- im a tater tot, an EYEKON, and a conehead (**T8**) (**eat zucchini**) (**✪ 𝐟𝐨𝐮𝐧𝐝 𝐡𝐞𝐚𝐯𝐞𝐧 ✪**)
+- im a tater tot, an EYEKON, and a conehead (**T8**) (**eat zucchini**)
 
 ##  languages ik/am learning  
 <p align="center">
